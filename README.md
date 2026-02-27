@@ -15,17 +15,17 @@
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tusar2004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Tusar2004?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=TusarGoswami&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/TusarGoswami?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </p>
 
 ---
 
 <!-- ANIMATED SNAKE EATING CONTRIBUTIONS -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tusar2004/Tusar2004/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tusar2004/Tusar2004/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tusar2004/Tusar2004/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -130,9 +130,9 @@ const tusar = {
 <td width="50%">
 
 ### 🎯 Head-2-Code
-[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusar2004)
+[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusarGoswami)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tusar2004&repo=Head-2-Code&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=Head-2-Code&theme=tokyonight&hide_border=true" width="100%"/>
 
 **MERN Stack Coding Platform**
 - ⚡ Multi-language code execution
@@ -146,9 +146,9 @@ const tusar = {
 <td width="50%">
 
 ### 🏍️ Velo-Rapido
-[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusar2004)
+[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusarGoswami)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tusar2004&repo=Velo-Rapido&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=Velo-Rapido&theme=tokyonight&hide_border=true" width="100%"/>
 
 **Premium Bike Rental System**
 - 🚲 Real-time booking & tracking
@@ -165,9 +165,9 @@ const tusar = {
 <td width="50%">
 
 ### 🤖 LinkedIn Optimizer Pro
-[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusar2004)
+[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusarGoswami)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tusar2004&repo=LinkedIn-Optimizer&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=LinkedIn-Optimizer&theme=tokyonight&hide_border=true" width="100%"/>
 
 **AI-Powered Profile Assistant**
 - 🧠 AI keyword scoring
@@ -181,7 +181,7 @@ const tusar = {
 <td width="50%">
 
 ### 🌟 More Projects
-[![GitHub](https://img.shields.io/badge/View_All-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusar2004?tab=repositories)
+[![GitHub](https://img.shields.io/badge/View_All-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusarGoswami?tab=repositories)
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100%"/>
 
@@ -205,7 +205,7 @@ const tusar = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tusar2004&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%"/>
 
 </div>
 
@@ -252,19 +252,19 @@ const tusar = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tusar2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusar2004&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TusarGoswami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusarGoswami&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusar2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusar2004&theme=tokyo-night&hide_border=true&area=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusarGoswami&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusarGoswami&theme=tokyo-night&hide_border=true&area=true" width="48%"/>
 </div>
 
 ### 🎯 LeetCode Performance
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/__tusar27?theme=dark&font=Baloo%202&ext=contest&border_radius=12" width="60%"/>
+  <img src="https://leetcard.jacoblin.cool/TusarGoswami?theme=dark&font=Baloo%202&ext=contest&border_radius=12" width="60%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -274,7 +274,7 @@ const tusar = {
 ## 🌐 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/__tusar27/">
+  <a href="https://leetcode.com/u/TusarGoswami/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/__tusar27/">
@@ -310,13 +310,13 @@ const tusar = {
   <a href="mailto:tusargoswami0027@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
-  <a href="https://github.com/Tusar2004">
+  <a href="https://github.com/TusarGoswami">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35"/>
   </a>
   <a href="https://www.hackerrank.com/profile/tusarg937">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35"/>
   </a>
-  <a href="https://leetcode.com/u/__tusar27/">
+  <a href="https://leetcode.com/u/TusarGoswami/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
   </a>
 </p>
@@ -332,7 +332,7 @@ const tusar = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tusar2004&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=TusarGoswami&color=blueviolet&style=flat-square&label=Profile+Views" />
   
   ### Show some ❤️ by starring some repositories!
 </div>
