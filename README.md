@@ -26,7 +26,7 @@
 <!-- FIXED: All static shields — no dynamic/json API calls -->
 <img src="https://komarev.com/ghpvc/?username=TusarGoswami&label=👁+Profile+Views&color=EC4899&style=for-the-badge&labelColor=03001C" />
 <a href="https://github.com/TusarGoswami?tab=followers">
-  <img src="https://img.shields.io/github/followers/TusarGoswami?label=👥+Followers&style=for-the-badge&color=A855F7&labelColor=03001C" />
+  <img src="https://img.shields.io/github/followers/TusarGoswami?label=%F0%9F%91%A5+Followers&style=for-the-badge&color=A855F7&labelColor=03001C" />
 </a>
 <a href="https://github.com/TusarGoswami?tab=repositories">
   <img src="https://img.shields.io/badge/📦_Repos-View_All-00FFFF?style=for-the-badge&labelColor=03001C" />
@@ -380,28 +380,6 @@
 
 <div align="center">
 
-## 🏆 &nbsp; Trophy Cabinet
-
-<br/>
-
-<!-- FIXED: Removed rank= filter params that cause trophy API failures.
-     Using only theme + layout params which are 100% stable. -->
-<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<!-- Second row with different theme for visual variety -->
-<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="60%" alt="GitHub Trophies Radical" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:A855F7&height=3&section=header" width="100%" />
-</div>
-
-<br/>
 
 <!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 8 — GITHUB ANALYTICS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
