@@ -6,10 +6,30 @@
 
 <!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 1 — HERO HEADER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║             TUSAR GOSWAMI — ADVANCED ANIMATED HEADER            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<!-- FIXED: Using 'cylinder' type with safe static params only -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03001C,30:0D0221,60:06001A,100:03001C&height=260&section=header&text=TUSAR%20GOSWAMI&fontSize=75&fontColor=00FFFF&animation=blinking&fontAlignY=55&stroke=00FFFF&strokeWidth=3&desc=⟡%20Full%20Stack%20Developer%20%C2%B7%20AI%20Explorer%20%C2%B7%20Code%20Artist%20%C2%B7%20India%20%F0%9F%87%AE%F0%9F%87%B3%20⟡&descAlignY=78&descSize=16&descColor=94A3B8" />
+<!-- LAYER 1: Shark-type capsule with twinkling & neon stroke -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:03001C,20:040d21,50:060118,80:040d21,100:03001C&height=140&section=header&reversal=false&text=&fontSize=1" />
+
+<!-- LAYER 2: Main title — transparent background, giant glitch-style text -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:03001C,100:03001C&height=120&text=TUSAR%20GOSWAMI&fontSize=80&fontColor=00FFFF&animation=twinkling&stroke=00FFFF&strokeWidth=2&fontAlignY=65" />
+
+<!-- LAYER 3: Typing animation — role carousel with neon cyan -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&duration=2200&pause=400&color=00FFFF&background=03001C00&center=true&vCenter=true&width=860&height=40&lines=⟨+Full+Stack+Developer+·+MERN+·+Cloud+⟩;⟨+AI+Builder+·+System+Design+Explorer+⟩;⟨+Competitive+Coder+·+300%2B+Problems+⟩;⟨+3D+UI+Craftsman+·+Creative+Technologist+⟩;⟨+Open+Source+Learner+·+India+🇮🇳+⟩)](https://git.io/typing-svg)
+
+<!-- LAYER 4: Role tags — static badge row with bracket/terminal aesthetic -->
+![](https://img.shields.io/badge/⟦_ROLE_⟧-Full_Stack_Dev-00FFFF?style=flat-square&labelColor=03001C&color=03001C&logoColor=00FFFF)
+![](https://img.shields.io/badge/⟦_SPEC_⟧-AI_%26_Cloud-A855F7?style=flat-square&labelColor=03001C&color=03001C)
+![](https://img.shields.io/badge/⟦_DSA_⟧-300%2B_Solved-EC4899?style=flat-square&labelColor=03001C&color=03001C)
+![](https://img.shields.io/badge/⟦_LOC_⟧-India_🇮🇳-22C55E?style=flat-square&labelColor=03001C&color=03001C)
+![](https://img.shields.io/badge/⟦_STATUS_⟧-Open_to_Work-F59E0B?style=flat-square&labelColor=03001C&color=03001C)
+
+<!-- LAYER 5: Waving bottom seal matching the dark palette -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,30:050116,60:03001C,100:040d21&height=80&section=header&reversal=true" />
 
 </div>
 
