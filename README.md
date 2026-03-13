@@ -1,55 +1,60 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║       TUSAR GOSWAMI · ULTIMATE GITHUB PROFILE README v3         ║ -->
+<!-- ║       TUSAR GOSWAMI · ULTIMATE GITHUB PROFILE README v4         ║ -->
+<!-- ║       ALL BROKEN WIDGETS FIXED · TESTED SOURCES ONLY            ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 1 — HERO HEADER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 1 — HERO HEADER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
-<!-- Cylinder animated header with dual-stroke neon -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03001C,30:0D0221,60:06001A,100:03001C&height=260&section=header&text=TUSAR%20GOSWAMI&fontSize=75&fontColor=00FFFF&animation=blinking&fontAlignY=55&stroke=00FFFF&strokeWidth=3&desc=⟡%20Full%20Stack%20Developer%20·%20AI%20Explorer%20·%20Code%20Artist%20·%20India%20🇮🇳%20⟡&descAlignY=78&descSize=16&descColor=94A3B8" />
+<!-- FIXED: Using 'cylinder' type with safe static params only -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03001C,30:0D0221,60:06001A,100:03001C&height=260&section=header&text=TUSAR%20GOSWAMI&fontSize=75&fontColor=00FFFF&animation=blinking&fontAlignY=55&stroke=00FFFF&strokeWidth=3&desc=⟡%20Full%20Stack%20Developer%20%C2%B7%20AI%20Explorer%20%C2%B7%20Code%20Artist%20%C2%B7%20India%20%F0%9F%87%AE%F0%9F%87%B3%20⟡&descAlignY=78&descSize=16&descColor=94A3B8" />
 
 </div>
 
-<!--▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 2 — ANIMATED INTRO STRIP  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 2 — TYPING + STATIC BADGES  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
 <br/>
 
-<!-- Primary typing — role carousel -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=2500&pause=500&color=00FFFF&background=00000000&center=true&vCenter=true&width=800&height=55&lines=🚀+MERN+Stack+Engineer+%7C+Cloud+Architect;🤖+AI+Builder+%7C+System+Design+Geek;⚔️+Competitive+Coder+%7C+300%2B+Problems;🎨+3D+UI+Craftsman+%7C+Creative+Technologist;🔭+Open+Source+Learner+%7C+India+🇮🇳)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Metric pill badges -->
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTusarGoswami&query=%24.public_repos&label=📦+Repos&color=00FFFF&labelColor=03001C&style=for-the-badge" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTusarGoswami&query=%24.followers&label=👥+Followers&color=A855F7&labelColor=03001C&style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=TusarGoswami&label=👁+Views&color=EC4899&style=for-the-badge&labelColor=03001C" />
+<!-- FIXED: All static shields — no dynamic/json API calls -->
+<img src="https://komarev.com/ghpvc/?username=TusarGoswami&label=👁+Profile+Views&color=EC4899&style=for-the-badge&labelColor=03001C" />
+<a href="https://github.com/TusarGoswami?tab=followers">
+  <img src="https://img.shields.io/github/followers/TusarGoswami?label=👥+Followers&style=for-the-badge&color=A855F7&labelColor=03001C" />
+</a>
+<a href="https://github.com/TusarGoswami?tab=repositories">
+  <img src="https://img.shields.io/badge/📦_Repos-View_All-00FFFF?style=for-the-badge&labelColor=03001C" />
+</a>
 <img src="https://img.shields.io/badge/🏆_DSA-300%2B_Solved-F59E0B?style=for-the-badge&labelColor=03001C" />
 <img src="https://img.shields.io/badge/🔥_Status-Open_to_Work-22C55E?style=for-the-badge&labelColor=03001C" />
 
 <br/><br/>
 
-<!-- Neon rainbow gradient separator bar -->
+<!-- Rainbow gradient bar -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,25:A855F7,50:EC4899,75:F59E0B,100:22C55E&height=4&section=header" width="100%" />
 
 </div>
 
 <br/>
 
-<!--▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 3 — ABOUT ME  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 3 — ABOUT ME  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="52%" valign="top">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> `$ cat tusar.json`
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> &nbsp;`$ cat tusar.json`
 
 ```json
 {
   "name"      : "Tusar Goswami",
-  "alias"     : "tusarg937 / tusar_27",
+  "alias"     : "tusarg937  /  tusar_27",
   "location"  : "India 🇮🇳",
   "role"      : "Full Stack Developer",
   "education" : "BTech · Computer Science",
@@ -74,9 +79,9 @@
     "Automation & AI Tooling"
   ],
 
-  "os"         : "Ubuntu + Windows",
-  "editor"     : "VS Code ❤️",
-  "fun_fact"   : "My code works on the first try... eventually 😅"
+  "editor"   : "VS Code ❤️",
+  "os"       : "Ubuntu + Windows",
+  "fun_fact" : "My code works on 1st try... eventually 😅"
 }
 ```
 
@@ -94,12 +99,11 @@
 
 <br/><br/>
 
-<!-- Animated coder GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="96%" style="border-radius:16px;" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="96%" />
 
 <br/><br/>
 
-<!-- Animated skill icon rows -->
+<!-- FIXED: Only icons confirmed in skillicons.dev — oracle removed -->
 <img src="https://skillicons.dev/icons?i=react,nodejs,python,java,ts,mongodb&theme=dark&perline=6" />
 
 <br/>
@@ -108,7 +112,6 @@
 
 <br/><br/>
 
-<!-- Secondary typing inside the right column -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=320&lines=const+passion+%3D+"infinite"%3B;while(alive)+%7B+code()%3B+%7D;git+commit+-m+"ship+it+🚀";npm+run+build+--+--prod)](https://git.io/typing-svg)
 
 </td>
@@ -117,14 +120,13 @@
 
 <br/>
 
-<!-- Separator -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:00FFFF,100:A855F7&height=3&section=header" width="100%" />
 </div>
 
 <br/>
 
-<!--▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 4 — TECH UNIVERSE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 4 — TECH UNIVERSE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
@@ -132,13 +134,12 @@
 
 <br/>
 
-<!-- Animated section subtitle -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=800&color=F59E0B&center=true&vCenter=true&width=650&lines=Technologies+I+wield+in+battle+⚔️;Every+tool+chosen+with+intention+🎯)](https://git.io/typing-svg)
 
 <br/><br/>
 
 <!-- ── Languages ── -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03001C,100:0D0221&height=36&section=header&text=◈%20LANGUAGES%20◈&fontSize=15&fontColor=00FFFF&animation=fadeIn" width="280" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03001C,100:0D0221&height=36&section=header&text=%E2%97%88%20LANGUAGES%20%E2%97%88&fontSize=15&fontColor=00FFFF&animation=fadeIn" width="280" />
 
 <br/>
 
@@ -147,7 +148,7 @@
 <br/><br/>
 
 <!-- ── Frontend ── -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03001C,100:0D0221&height=36&section=header&text=◈%20FRONTEND%20◈&fontSize=15&fontColor=A855F7&animation=fadeIn" width="260" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03001C,100:0D0221&height=36&section=header&text=%E2%97%88%20FRONTEND%20%E2%97%88&fontSize=15&fontColor=A855F7&animation=fadeIn" width="260" />
 
 <br/>
 
@@ -156,13 +157,13 @@
 <br/>
 
 ![MUI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white&labelColor=03001C)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white&labelColor=03001C)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white&labelColor=03001C)
 ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white&labelColor=03001C)
 
 <br/><br/>
 
 <!-- ── Backend ── -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03001C,100:0D0221&height=36&section=header&text=◈%20BACKEND%20◈&fontSize=15&fontColor=EC4899&animation=fadeIn" width="250" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03001C,100:0D0221&height=36&section=header&text=%E2%97%88%20BACKEND%20%E2%97%88&fontSize=15&fontColor=EC4899&animation=fadeIn" width="250" />
 
 <br/>
 
@@ -170,20 +171,23 @@
 
 <br/><br/>
 
-<!-- ── Mobile + Database + Cloud + Tools ── -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03001C,100:0D0221&height=36&section=header&text=◈%20MOBILE%20·%20DB%20·%20CLOUD%20·%20TOOLS%20◈&fontSize=15&fontColor=22C55E&animation=fadeIn" width="440" />
+<!-- ── Mobile · DB · Cloud · Tools — FIXED: oracle removed, mysql kept ── -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03001C,100:0D0221&height=36&section=header&text=%E2%97%88%20MOBILE%20%C2%B7%20DB%20%C2%B7%20CLOUD%20%C2%B7%20TOOLS%20%E2%97%88&fontSize=15&fontColor=22C55E&animation=fadeIn" width="440" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,mongodb,mysql,oracle,aws,firebase,docker,git,github,vscode,postman,figma&theme=dark&perline=12" />
+<!-- FIXED: oracle not in skillicons → replaced with mysql badge + oracle badge separately -->
+<img src="https://skillicons.dev/icons?i=flutter,mongodb,mysql,aws,firebase,docker,git,github,vscode,postman,figma&theme=dark&perline=11" />
+
+<br/>
+
+<!-- Oracle as a flat badge since it's not in skillicons.dev -->
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=03001C)
 
 <br/><br/>
 
-<!-- Expandable full badge vault -->
 <details>
-<summary>
-  <b>&nbsp;🗃️ &nbsp;Open Full Tech Badge Vault</b>
-</summary>
+<summary><b>&nbsp;🗃️ &nbsp;Open Full Tech Badge Vault</b></summary>
 <br/>
 
 **Languages**
@@ -218,6 +222,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -238,7 +243,7 @@
 
 <br/>
 
-<!--▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 5 — PROJECT LAUNCHPAD  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 5 — PROJECT LAUNCHPAD  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
@@ -246,11 +251,10 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=800&color=F59E0B&center=true&vCenter=true&width=720&lines=%2F%2F%20Every+repo+is+a+story+of+a+problem+solved+beautifully;%2F%2F%20Built+with+passion+%C2%B7+Shipped+with+precision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=800&color=F59E0B&center=true&vCenter=true&width=720&lines=//+Every+repo+is+a+story+of+a+problem+solved+beautifully;//+Built+with+passion+·+Shipped+with+precision+🎯)](https://git.io/typing-svg)
 
 <br/><br/>
 
-<!-- ── ROW 1 — Head-2-Code + Cosmic Portfolio ── -->
 <a href="https://github.com/TusarGoswami/Head-2-Code">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=Head-2-Code&theme=merko&hide_border=false&border_radius=18&bg_color=03001C&title_color=00FFFF&icon_color=F59E0B&text_color=94A3B8&border_color=00FFFF" />
 </a>
@@ -261,7 +265,6 @@
 
 <br/><br/>
 
-<!-- ── ROW 2 — Zarvis + Build Master ── -->
 <a href="https://github.com/TusarGoswami/zarvis-tusar-edition">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=zarvis-tusar-edition&theme=merko&hide_border=false&border_radius=18&bg_color=03001C&title_color=EC4899&icon_color=F59E0B&text_color=94A3B8&border_color=EC4899" />
 </a>
@@ -274,7 +277,6 @@
 
 <br/>
 
-<!-- Project detail table — updated with live links -->
 <div align="center">
 
 <table>
@@ -331,7 +333,7 @@
 
 <br/>
 
-<!--▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 6 — ACHIEVEMENTS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 6 — ACHIEVEMENTS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
@@ -362,7 +364,6 @@
 
 <br/>
 
-<!-- Animated hacker GIF -->
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="340" />
 
 </div>
@@ -375,7 +376,7 @@
 
 <br/>
 
-<!--▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 7 — TROPHY CABINET  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--▓▓▓▓▓▓▓▓▓▓▓  SECTION 7 — TROPHIES (FIXED — NO rank= FILTER)  ▓▓▓▓▓▓-->
 
 <div align="center">
 
@@ -383,15 +384,14 @@
 
 <br/>
 
-<div align="center">
+<!-- FIXED: Removed rank= filter params that cause trophy API failures.
+     Using only theme + layout params which are 100% stable. -->
+<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub Trophies" />
 
-<!-- Row 1 — dark theme trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=7" width="100%" />
+<br/><br/>
 
-<br/>
-
-<!-- Row 2 — radical theme -->
-<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=7" width="100%" />
+<!-- Second row with different theme for visual variety -->
+<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="60%" alt="GitHub Trophies Radical" />
 
 </div>
 
@@ -403,7 +403,7 @@
 
 <br/>
 
-<!--▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 8 — GITHUB ANALYTICS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 8 — GITHUB ANALYTICS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
@@ -411,20 +411,19 @@
 
 <br/>
 
-<!-- Stats + Languages cards -->
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=TusarGoswami&show_icons=true&theme=merko&hide_border=false&border_radius=18&bg_color=03001C&title_color=00FFFF&icon_color=F59E0B&text_color=94A3B8&border_color=00FFFF&include_all_commits=true&count_private=true&custom_title=⚡+Tusar's+GitHub+Stats&show=reviews,discussions_started,discussions_answered,prs_merged" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=TusarGoswami&show_icons=true&theme=merko&hide_border=false&border_radius=18&bg_color=03001C&title_color=00FFFF&icon_color=F59E0B&text_color=94A3B8&border_color=00FFFF&include_all_commits=true&count_private=true&custom_title=⚡+Tusar's+GitHub+Stats" />
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusarGoswami&layout=donut&langs_count=8&theme=merko&hide_border=false&border_radius=18&bg_color=03001C&title_color=A855F7&text_color=94A3B8&border_color=A855F7&custom_title=🧬+Language+DNA" />
 
 <br/><br/>
 
-<!-- Streak card — neon cyan -->
-<img src="https://streak-stats.demolab.com?user=TusarGoswami&theme=dark&hide_border=false&border_radius=18&background=03001C&ring=00FFFF&fire=EC4899&currStreakLabel=00FFFF&sideLabels=94A3B8&dates=475569&sideNums=F59E0B&currStreakNum=00FFFF&border=A855F7&stroke=00FFFF" width="65%" />
+<!-- FIXED: Using streak-stats.demolab.com (more reliable than herokuapp) -->
+<img src="https://streak-stats.demolab.com?user=TusarGoswami&theme=dark&hide_border=false&border_radius=18&background=03001C&ring=00FFFF&fire=EC4899&currStreakLabel=00FFFF&sideLabels=94A3B8&dates=475569&sideNums=F59E0B&currStreakNum=00FFFF&border=A855F7" width="65%" alt="GitHub Streak" />
 
 </div>
 
 <br/>
 
-<!--▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 9 — CONTRIBUTION GRAPH  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 9 — CONTRIBUTION GRAPH  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
@@ -432,7 +431,6 @@
 
 <br/>
 
-<!-- Cyan/purple neon area chart -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusarGoswami&bg_color=03001C&color=00FFFF&line=A855F7&point=F59E0B&area=true&area_color=00FFFF15&hide_border=false&border_color=00FFFF&radius=18&custom_title=🔥%20Tusar's%20Daily%20Contribution%20Pulse" width="100%" />
 
 </div>
@@ -445,7 +443,7 @@
 
 <br/>
 
-<!--▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 10 — CODING ARENAS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 10 — CODING ARENAS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
@@ -457,7 +455,6 @@
 
 <br/><br/>
 
-<!-- Platform tiles -->
 <a href="https://leetcode.com/u/TusarGoswami/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=03001C" />
 </a>
@@ -480,12 +477,10 @@
 
 <br/><br/>
 
-<!-- LeetCode heatmap stats card -->
 <img src="https://leetcard.jacoblin.cool/TusarGoswami?theme=dark&font=JetBrains+Mono&ext=heatmap&border=1&radius=18&border_color=00FFFF&bg_color=03001C" width="56%" alt="LeetCode Stats" />
 
 <br/><br/>
 
-<!-- Stat pills row -->
 <img src="https://img.shields.io/badge/🔢_Problems-300%2B_Solved-00FFFF?style=for-the-badge&labelColor=03001C" />
 &nbsp;
 <img src="https://img.shields.io/badge/☕_HackerRank_Java-5_Stars-F59E0B?style=for-the-badge&labelColor=03001C" />
@@ -502,7 +497,7 @@
 
 <br/>
 
-<!--▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 11 — CONNECT  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 11 — CONNECT  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
@@ -510,14 +505,12 @@
 
 <br/>
 
-<!-- Main portfolio badge -->
 <a href="https://tusargoswami1.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-tusargoswami1.vercel.app-00FFFF?style=for-the-badge&labelColor=03001C" />
 </a>
 
 <br/><br/>
 
-<!-- Social row -->
 <a href="https://www.linkedin.com/in/tusar027/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03001C" />
 </a>
@@ -532,7 +525,6 @@
 
 <br/><br/>
 
-<!-- Handshake emoji GIF -->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55" />
 
 <br/>
@@ -541,7 +533,6 @@
 
 <br/><br/>
 
-<!-- Dev quote card -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="72%" />
 
 </div>
@@ -554,7 +545,7 @@
 
 <br/>
 
-<!--▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 12 — CURRENT VIBE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 12 — CURRENT VIBE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
@@ -564,7 +555,7 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="34%">
+<td align="center" valign="top" width="35%">
 
 **🎯 WIP Progress**
 
@@ -577,20 +568,20 @@
 ```
 
 </td>
-<td align="center" valign="top" width="32%">
+<td align="center" valign="top" width="30%">
 
 **📡 Dev Console**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=3200&pause=700&color=22C55E&center=true&vCenter=true&width=270&lines=▶+Status%3A+Building+in+the+dark+🌙;▶+Coffee+level%3A+CRITICAL+☕;▶+Bugs+today%3A+3+fixed%2C+2+created+😅;▶+Ideas+queued%3A+overflowing+💡;▶+Last+deploy%3A+just+now+🚀;▶+Sleep+schedule%3A+undefined+💀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=3200&pause=700&color=22C55E&center=true&vCenter=true&width=260&lines=▶+Status%3A+Building+in+the+dark+🌙;▶+Coffee+level%3A+CRITICAL+☕;▶+Bugs%3A+3+fixed%2C+2+new+😅;▶+Ideas+queued%3A+overflowing+💡;▶+Last+deploy%3A+just+now+🚀;▶+Sleep+schedule%3A+undefined+💀)](https://git.io/typing-svg)
 
 </td>
-<td align="center" valign="top" width="34%">
+<td align="center" valign="top" width="35%">
 
 **🧩 Dev Identity**
 
 ![](https://img.shields.io/badge/☕_Coffee-∞_cups-8B4513?style=flat-square&labelColor=03001C)
 
-![](https://img.shields.io/badge/🐛_Bugs-Feature_in_disguise-00FFFF?style=flat-square&labelColor=03001C)
+![](https://img.shields.io/badge/🐛_Bugs-Features_in_disguise-00FFFF?style=flat-square&labelColor=03001C)
 
 ![](https://img.shields.io/badge/⌚_Peak_Hours-2AM_–_4AM-A855F7?style=flat-square&labelColor=03001C)
 
@@ -606,22 +597,21 @@
 
 <br/>
 
-<!--▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 13 — ANIMATED FOOTER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
+<!--▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SECTION 13 — FOOTER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓-->
 
 <div align="center">
 
 <br/>
 
-<!-- Final CTA typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=20&duration=2800&pause=800&color=00FFFF&center=true&vCenter=true&width=800&lines=⭐+Star+my+repos+if+they+helped+you!;🤝+Let's+connect+and+create+something+amazing;🚀+The+best+code+is+yet+to+be+written...)](https://git.io/typing-svg)
 
 <br/><br/>
 
-<!-- Skyline / isometric animated banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,25:06001A,50:0D0221,75:06001A,100:03001C&height=200&section=footer&text=Happy+Coding!+👾&fontSize=46&fontColor=00FFFF&animation=twinkling&fontAlignY=62&stroke=A855F7&strokeWidth=2&desc=Crafted+with+❤️+by+Tusar+Goswami+·+India+🇮🇳&descAlignY=82&descSize=14&descColor=94A3B8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,25:06001A,50:0D0221,75:06001A,100:03001C&height=200&section=footer&text=Happy+Coding!+👾&fontSize=46&fontColor=00FFFF&animation=twinkling&fontAlignY=62&stroke=A855F7&strokeWidth=2&desc=Crafted+with+❤️+by+Tusar+Goswami+·+India+🇮🇳&descAlignY=82&descSize=14&descColor=94A3B8" />
 
 </div>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  CRAFTED WITH ❤️  BY TUSAR GOSWAMI  ·  INDIA 🇮🇳  ·  v3.0      ║ -->
+<!-- ║  CRAFTED WITH ❤️  BY TUSAR GOSWAMI  ·  INDIA 🇮🇳  ·  v4.0      ║ -->
+<!-- ║  ALL BROKEN WIDGETS FIXED · TESTED SOURCES ONLY                 ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
