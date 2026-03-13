@@ -218,7 +218,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -247,7 +246,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=800&color=F59E0B&center=true&vCenter=true&width=720&lines=// Every+repo+is+a+story+of+a+problem+solved+beautifully;// Built+with+passion+·+Shipped+with+precision+🎯)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=800&color=F59E0B&center=true&vCenter=true&width=720&lines=%2F%2F%20Every+repo+is+a+story+of+a+problem+solved+beautifully;%2F%2F%20Built+with+passion+%C2%B7+Shipped+with+precision)](https://git.io/typing-svg)
 
 <br/><br/>
 
@@ -384,13 +383,15 @@
 
 <br/>
 
+<div align="center">
+
 <!-- Row 1 — dark theme trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=7" width="100%" />
 
 <br/>
 
-<!-- Row 2 — radical/neon theme for contrast -->
-<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=B,C" width="100%" />
+<!-- Row 2 — radical theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=radical&no-frame=true&margin-w=8&margin-h=8&column=7" width="100%" />
 
 </div>
 
