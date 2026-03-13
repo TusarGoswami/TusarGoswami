@@ -1,338 +1,341 @@
-<!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tusar%20Goswami&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20with%20Code&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER BANNER                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Tusar%20Goswami&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BTech%20CS%20Student%20%7C%20India%20🇮🇳&descAlignY=60&descAlign=50&descSize=18&descColor=8b949e" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    TYPING ANIMATION                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Tusar+👋;Full+Stack+Developer+%7C+Problem+Solver;Building+scalable+apps+%26+creative+tools;Passionate+about+AI+%7C+Cloud+%7C+System+Design;300%2B+DSA+Problems+Solved+%7C+Open+Source+Learner)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Profile views + social badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=TusarGoswami&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/TusarGoswami?tab=followers">
+    <img src="https://img.shields.io/github/followers/TusarGoswami?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" />
+  </a>
+  <a href="https://github.com/TusarGoswami?tab=stars">
+    <img src="https://img.shields.io/github/stars/TusarGoswami?label=Stars&style=for-the-badge&color=ffd700&labelColor=0d1117" />
+  </a>
+</p>
+
 </div>
 
-<!-- TYPING SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Developer+%F0%9F%8E%A8;Flutter+Enthusiast+%F0%9F%93%B1;Problem+Solver+%F0%9F%A7%A0;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
-<!-- ANIMATED PROFILE IMAGE -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
-</p>
-
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TusarGoswami&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/TusarGoswami?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-</p>
-
 ---
 
-<!-- ANIMATED SNAKE EATING CONTRIBUTIONS -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME SECTION                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
----
+<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```javascript
-const tusar = {
-    pronouns: "He" | "Him",
-    location: "India 🇮🇳",
-    code: ["JavaScript", "Python", "Java", "C++", "Dart"],
-    askMeAbout: ["Web Dev", "Mobile Dev", "UI/UX", "DSA", "Cloud"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Redux"],
-            mobile: ["Flutter", "Dart"],
-            css: ["Tailwind CSS", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Flask", "Django"],
-        },
-        databases: ["MongoDB", "MySQL", "Oracle"],
-        misc: ["Firebase", "Git", "Docker", "REST APIs"]
-    },
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "I debug best at 3 AM with coffee ☕"
-};
+```yaml
+name: Tusar Goswami
+location: India 🇮🇳
+role: Full Stack Developer | BTech CS Student
+status: Open to Opportunities 🚀
+
+currently_learning:
+  - Advanced System Design
+  - Cloud Architecture (AWS)
+  - AI & Machine Learning
+
+interests:
+  - Building Scalable Applications
+  - Competitive Coding & DSA
+  - Creative Developer Tools
+  - Interactive UI/UX Design
+
+fun_fact: >
+  I turn coffee ☕ into code and
+  bugs into features! 🐛➡️✨
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
+
+- 🔭 Currently building **Head-2-Code** — a competitive coding battle platform
+- 🌱 Exploring **AI integrations**, **Cloud Computing**, and **System Design**
+- 💬 Ask me about **MERN Stack**, **DSA**, **Flutter**, or **Python**
+- 📫 Reach me at **tusargoswami0027@gmail.com**
+- ⚡ Solved **300+ coding problems** across platforms
+- 🏆 **5⭐ Java** certified on HackerRank
+
+<br clear="both"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK SECTION                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
-
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-</details>
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<details open>
-<summary><b>🗄️ Database & Cloud</b></summary>
-<br>
-
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### ☁️ Cloud & DevOps & Tools
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔧 Tools & Platforms</b></summary>
-<br>
-
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</details>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   PROJECTS SHOWCASE                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<a href="https://github.com/TusarGoswami/Head-2-Code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=Head-2-Code&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+</a>
+<a href="https://github.com/TusarGoswami/cosmic-portfolio-voyage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=cosmic-portfolio-voyage&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+</a>
 
-### 🎯 Head-2-Code
-[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusarGoswami)
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=Head-2-Code&theme=tokyonight&hide_border=true" width="100%"/>
-
-**MERN Stack Coding Platform**
-- ⚡ Multi-language code execution
-- 🎮 1v1 coding battles
-- 🏆 Contest management system
-- 🔐 Secure Judge0 API integration
-
-**Tech:** MongoDB • Express • React • Node.js
-
-</td>
-<td width="50%">
-
-### 🏍️ Velo-Rapido
-[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusarGoswami)
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=Velo-Rapido&theme=tokyonight&hide_border=true" width="100%"/>
-
-**Premium Bike Rental System**
-- 🚲 Real-time booking & tracking
-- 💳 Integrated payment gateway
-- 📊 Admin fleet dashboard
-- 🔧 Maintenance auditing
-
-**Tech:** PHP • MySQL • JavaScript
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 LinkedIn Optimizer Pro
-[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusarGoswami)
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=LinkedIn-Optimizer&theme=tokyonight&hide_border=true" width="100%"/>
-
-**AI-Powered Profile Assistant**
-- 🧠 AI keyword scoring
-- 📄 PDF/Excel export
-- 📊 Analytics dashboard
-- 💬 Interactive chat UI
-
-**Tech:** Python • Flask • TailwindCSS
-
-</td>
-<td width="50%">
-
-### 🌟 More Projects
-[![GitHub](https://img.shields.io/badge/View_All-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusarGoswami?tab=repositories)
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100%"/>
-
-**Currently Building:**
-- 📱 Social Media App (Flutter)
-- 🛒 E-commerce Platform (MERN)
-- 🎮 Real-time Game (WebSockets)
-- 🤖 AI Chatbot (NLP)
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/TusarGoswami/zarvis-tusar-edition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=zarvis-tusar-edition&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+</a>
+<a href="https://github.com/TusarGoswami/Tusar-build_Master">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=Tusar-build_Master&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+</a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
+
+### 🚀 Project Highlights
+
+| 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
+|:---:|:---|:---:|:---:|
+| **Head-2-Code** | MERN stack competitive coding battle platform with real-time contests | `MongoDB` `Express` `React` `Node.js` | [📁 Repo](https://github.com/TusarGoswami/Head-2-Code) |
+| **Cosmic Portfolio Voyage** | Space-themed interactive developer portfolio with 3D animations & immersive UI | `React` `Three.js` `TailwindCSS` | [🌐 Live](https://cosmic-portfolio-tusar.vercel.app/) · [📁 Repo](https://github.com/TusarGoswami/cosmic-portfolio-voyage) |
+| **Zarvis Tusar Edition** | Personal AI assistant inspired by Jarvis with automation & voice interaction | `Python` `AI/ML` `Voice API` | [📁 Repo](https://github.com/TusarGoswami/zarvis-tusar-edition) |
+| **Tusar Build Master** | AI-powered developer productivity tool for streamlined workflows | `AI` `Node.js` `Automation` | [📁 Repo](https://github.com/TusarGoswami/Tusar-build_Master) |
 
 ---
 
-## 🏆 Achievements & Certifications
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    ACHIEVEMENTS SECTION                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🏅 Achievements & Milestones
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%"/>
+| 🎯 Achievement | 🏆 Detail |
+|:---:|:---:|
+| 💻 **Problems Solved** | 300+ across all platforms |
+| ⭐ **HackerRank Java** | 5 Star Certified |
+| 🔓 **Open Source** | Active Learner & Contributor |
+| 🌐 **Portfolio** | Live at [tusargoswami1.vercel.app](https://tusargoswami1.vercel.app/) |
+| 🚀 **Projects Deployed** | Multiple live production apps |
+| 🛡️ **Cybersecurity** | Active on TryHackMe |
 
 </div>
 
-### 💪 Coding Milestones
+---
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80"/>
-<br><b>300+ Problems Solved</b>
-<br><sub>Across LeetCode & GFG</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122003-15d5c7cc-0f67-40a4-b7f9-7b4ea5e2bbf7.png" width="80"/>
-<br><b>5⭐ Java</b>
-<br><sub>HackerRank</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122003-15d5c7cc-0f67-40a4-b7f9-7b4ea5e2bbf7.png" width="80"/>
-<br><b>5⭐ C++</b>
-<br><sub>HackerRank</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/>
-<br><b>DSA Expert</b>
-<br><sub>Data Structures & Algorithms</sub>
-</td>
-</tr>
-</table>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB TROPHIES                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-### 📜 Certifications
+## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://img.shields.io/badge/Flutter_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=icloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL_IIT-FF6F00?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-</p>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies"/>
+
+</div>
 
 ---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS CARDS                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusarGoswami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusarGoswami&theme=tokyonight&hide_border=true" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusarGoswami&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusarGoswami&theme=tokyo-night&hide_border=true&area=true" width="48%"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TusarGoswami&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true&custom_title=Tusar's+GitHub+Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusarGoswami&layout=compact&langs_count=10&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&custom_title=Most+Used+Languages" />
 
-### 🎯 LeetCode Performance
+<br/>
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/TusarGoswami?theme=dark&font=Baloo%202&ext=contest&border_radius=12" width="60%"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TusarGoswami&theme=github-dark-blue&hide_border=true&border_radius=15&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=1a1a2e" width="60%" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## 🌐 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/TusarGoswami/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/__tusar27/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/tusarg937">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35"/>
-  </a>
-  <a href="https://www.codechef.com/users/tusar_27">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35"/>
-  </a>
-  <a href="https://tryhackme.com/p/tusarg937">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="35"/>
-  </a>
-</p>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    ACTIVITY GRAPH                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tusar027/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  <a href="mailto:tusargoswami0027@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
-  <a href="https://github.com/TusarGoswami">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/tusarg937">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35"/>
-  </a>
-  <a href="https://leetcode.com/u/TusarGoswami/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
-  </a>
-</p>
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TusarGoswami&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&radius=16&custom_title=Tusar's%20Contribution%20Graph" width="100%" />
+
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
-</div>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  CODING PLATFORM PROFILES                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 💻 Coding Platforms
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TusarGoswami&color=blueviolet&style=flat-square&label=Profile+Views" />
-  
-  ### Show some ❤️ by starring some repositories!
+
+<a href="https://leetcode.com/u/TusarGoswami/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/__tusar27/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+<a href="https://www.hackerrank.com/profile/tusarg937" target="_blank">
+  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+</a>
+<a href="https://www.codechef.com/users/tusar_27" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
+</a>
+<a href="https://tryhackme.com/p/tusarg937" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe"/>
+</a>
+
+<br/><br/>
+
+<!-- LeetCode Stats Card -->
+<img src="https://leetcard.jacoblin.cool/TusarGoswami?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=16" width="60%" alt="LeetCode Stats" />
+
 </div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  CONNECT WITH ME SECTION                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://tusargoswami1.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/tusar027/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/TusarGoswami" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:tusargoswami0027@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+
+**I love connecting with fellow developers! Feel free to reach out — let's build something amazing together 🚀**
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                CONTRIBUTION SNAKE ANIMATION                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+> 💡 **To enable the snake animation**, create a GitHub Actions workflow at `.github/workflows/snake.yml` in your profile repository with the [platane/snk](https://github.com/platane/snk) action.
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED FOOTER                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Animated marquee" />
+
+<br/>
+
+<!-- Wave footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20like%20them!&fontSize=16&fontColor=58a6ff&animation=fadeIn&fontAlignY=65" />
+
+</div>
+
