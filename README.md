@@ -315,8 +315,6 @@ fun_fact: >
 
 </div>
 
-> 💡 **To enable the snake animation**, create a GitHub Actions workflow at `.github/workflows/snake.yml` in your profile repository with the [platane/snk](https://github.com/platane/snk) action.
-
 ---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
