@@ -1,339 +1,542 @@
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--          TUSAR GOSWAMI — ULTRA PREMIUM GITHUB PROFILE README         -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  ①  CINEMATIC ANIMATED HEADER — venom type with neon glow           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                      -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Tusar%20Goswami&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BTech%20CS%20Student%20%7C%20India%20🇮🇳&descAlignY=60&descAlign=50&descSize=18&descColor=8b949e" />
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Tusar+👋;Full+Stack+Developer+%7C+Problem+Solver;Building+scalable+apps+%26+creative+tools;Passionate+about+AI+%7C+Cloud+%7C+System+Design;300%2B+DSA+Problems+Solved+%7C+Open+Source+Learner)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Profile views + social badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=TusarGoswami&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/TusarGoswami?tab=followers">
-    <img src="https://img.shields.io/github/followers/TusarGoswami?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" />
-  </a>
-  <a href="https://github.com/TusarGoswami?tab=stars">
-    <img src="https://img.shields.io/github/stars/TusarGoswami?label=Stars&style=for-the-badge&color=ffd700&labelColor=0d1117" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d0221,50:0a0a2e,75:040d21,100:000000&height=280&section=header&text=TUSAR%20GOSWAMI&fontSize=72&fontColor=00d4ff&animation=twinkling&fontAlignY=42&stroke=00d4ff&strokeWidth=2&desc=⚡%20Full%20Stack%20Developer%20·%20BTech%20CS%20·%20India%20🇮🇳%20·%20Builder%20of%20Things%20⚡&descAlignY=65&descSize=17&descColor=7dd3fc" />
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  ②  NEON DIVIDER + MULTI-LINE TYPING ANIMATION                      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME SECTION                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<br/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=600&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=🚀+Full+Stack+Developer+%7C+MERN+%7C+Cloud;🤖+AI+Enthusiast+%7C+System+Design+Explorer;⚔️+Competitive+Coder+%7C+300%2B+Problems+Solved;🎨+Creative+Dev+%7C+Interactive+UI+Craftsman;🔭+Building+Head-2-Code+%7C+Zarvis+%7C+More...;💡+Turning+Ideas+→+Production-Grade+Apps)](https://git.io/typing-svg)
 
-```yaml
-name: Tusar Goswami
-location: India 🇮🇳
-role: Full Stack Developer | BTech CS Student
-status: Open to Opportunities 🚀
+<br/>
 
-currently_learning:
-  - Advanced System Design
-  - Cloud Architecture (AWS)
-  - AI & Machine Learning
+<!-- Live badge row -->
+<a href="https://tusargoswami1.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Live-00d4ff?style=for-the-badge&labelColor=0a0a2e&color=00d4ff" />
+</a>
+<a href="mailto:tusargoswami0027@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-Contact_Me-ff6b6b?style=for-the-badge&labelColor=0a0a2e&color=ff6b6b" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=TusarGoswami&label=👁_Profile_Views&color=7c3aed&style=for-the-badge&labelColor=0a0a2e" />
+<a href="https://github.com/TusarGoswami?tab=followers">
+  <img src="https://img.shields.io/github/followers/TusarGoswami?label=⭐_Followers&style=for-the-badge&color=fbbf24&labelColor=0a0a2e" />
+</a>
 
-interests:
-  - Building Scalable Applications
-  - Competitive Coding & DSA
-  - Creative Developer Tools
-  - Interactive UI/UX Design
+<br/><br/>
 
-fun_fact: >
-  I turn coffee ☕ into code and
-  bugs into features! 🐛➡️✨
+<!-- Animated neon top bar -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:7c3aed,100:ff6b6b&height=3&section=header&reversal=false" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  ③  ABOUT ME — Split layout with animated terminal-style card       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
+
+## 👾 &nbsp; `whoami`
+
+```typescript
+const tusar: Developer = {
+  name        : "Tusar Goswami",
+  location    : "India 🇮🇳",
+  role        : "Full Stack Developer",
+  education   : "BTech · Computer Science",
+  status      : "🟢 Open to Opportunities",
+
+  currentlyBuilding: [
+    "Head-2-Code  ⚔️  (Coding Battle Platform)",
+    "Zarvis AI    🤖  (Personal AI Assistant)",
+  ],
+
+  learning: ["System Design 🏗️", "AWS ☁️", "AI/ML 🧠"],
+
+  passions: [
+    "Scalable Architecture",
+    "Competitive Coding",
+    "Creative Developer Tools",
+    "Immersive 3D UI/UX",
+  ],
+
+  funFact: "I debug in production 😅 (just kidding)",
+
+  reachMe: "tusargoswami0027@gmail.com",
+};
 ```
 
 <br/>
 
-- 🔭 Currently building **Head-2-Code** — a competitive coding battle platform
-- 🌱 Exploring **AI integrations**, **Cloud Computing**, and **System Design**
-- 💬 Ask me about **MERN Stack**, **DSA**, **Flutter**, or **Python**
-- 📫 Reach me at **tusargoswami0027@gmail.com**
-- ⚡ Solved **300+ coding problems** across platforms
-- 🏆 **5⭐ Java** certified on HackerRank
+> 🔭 &nbsp;Crafting **[Head-2-Code](https://github.com/TusarGoswami/Head-2-Code)** — a real-time competitive coding battle arena
+> 
+> 🧠 &nbsp;Deep-diving into **AI integrations**, **Cloud Architecture** & **System Design**
+> 
+> 💬 &nbsp;Chat me about **MERN Stack**, **Flutter**, **DSA** or **Python**
+> 
+> ⚡ &nbsp;**300+ DSA problems** solved · **5⭐ Java** on HackerRank
 
-<br clear="both"/>
+</td>
+<td width="5%"></td>
+<td width="40%" valign="top" align="center">
 
----
+<br/><br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK SECTION                        -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,java,mongodb,aws&theme=dark&perline=6" width="100%" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,docker,ts,cpp,firebase,figma&theme=dark&perline=6" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Animated neon separator -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:00d4ff,100:7c3aed&height=2&section=header" width="100%" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  ④  TECH STACK — Skill icons grid with category labels              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+## 🛸 &nbsp; Tech Universe
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+<br/>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### ` ◈ Languages ◈ `
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,dart&theme=dark&perline=6" />
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<br/><br/>
 
-### ☁️ Cloud & DevOps & Tools
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### ` ◈ Frontend ◈ `
+
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap&theme=dark&perline=6" />
+
+<br/>
+
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white&labelColor=0a0a2e)
+
+<br/><br/>
+
+### ` ◈ Backend ◈ `
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,php&theme=dark&perline=5" />
+
+<br/><br/>
+
+### ` ◈ Mobile · Database · Cloud · Tools ◈ `
+
+<img src="https://skillicons.dev/icons?i=flutter,mongodb,mysql,aws,firebase,docker,git,github,vscode,postman,figma&theme=dark&perline=11" />
+
+<br/><br/>
+
+<details>
+<summary><b>🔍 &nbsp; View All Tech Badges</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</details>
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   PROJECTS SHOWCASE                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- Animated separator -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,50:fbbf24,100:00d4ff&height=2&section=header" width="100%" />
+</div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  ⑤  PROJECT SHOWCASE — Premium cards with neon borders              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+## 🚀 &nbsp; Project Launchpad
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3500&pause=1000&color=fbbf24&center=true&vCenter=true&width=700&lines=💡+Each+project+is+a+problem+solved+in+style...;⚙️+Built+with+passion%2C+shipped+with+purpose.)](https://git.io/typing-svg)
+
+<br/>
+
 <a href="https://github.com/TusarGoswami/Head-2-Code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=Head-2-Code&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=Head-2-Code&theme=merko&hide_border=false&border_radius=16&bg_color=0d0221&title_color=00d4ff&icon_color=fbbf24&text_color=7dd3fc&border_color=00d4ff" />
 </a>
+&nbsp;
 <a href="https://github.com/TusarGoswami/cosmic-portfolio-voyage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=cosmic-portfolio-voyage&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=cosmic-portfolio-voyage&theme=merko&hide_border=false&border_radius=16&bg_color=0d0221&title_color=00d4ff&icon_color=fbbf24&text_color=7dd3fc&border_color=7c3aed" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/TusarGoswami/zarvis-tusar-edition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=zarvis-tusar-edition&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=zarvis-tusar-edition&theme=merko&hide_border=false&border_radius=16&bg_color=0d0221&title_color=00d4ff&icon_color=fbbf24&text_color=7dd3fc&border_color=ff6b6b" />
 </a>
+&nbsp;
 <a href="https://github.com/TusarGoswami/Tusar-build_Master">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=Tusar-build_Master&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TusarGoswami&repo=Tusar-build_Master&theme=merko&hide_border=false&border_radius=16&bg_color=0d0221&title_color=00d4ff&icon_color=fbbf24&text_color=7dd3fc&border_color=10b981" />
 </a>
 
 </div>
 
 <br/>
 
-### 🚀 Project Highlights
+<div align="center">
 
-| 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
+| &nbsp;&nbsp;🛸 Project&nbsp;&nbsp; | 🔥 What it does | ⚙️ Stack | 🔗 |
 |:---:|:---|:---:|:---:|
-| **Head-2-Code** | MERN stack competitive coding battle platform with real-time contests | `MongoDB` `Express` `React` `Node.js` | [📁 Repo](https://github.com/TusarGoswami/Head-2-Code) |
-| **Cosmic Portfolio Voyage** | Space-themed interactive developer portfolio with 3D animations & immersive UI | `React` `Three.js` `TailwindCSS` | [🌐 Live](https://cosmic-portfolio-tusar.vercel.app/) · [📁 Repo](https://github.com/TusarGoswami/cosmic-portfolio-voyage) |
-| **Zarvis Tusar Edition** | Personal AI assistant inspired by Jarvis with automation & voice interaction | `Python` `AI/ML` `Voice API` | [📁 Repo](https://github.com/TusarGoswami/zarvis-tusar-edition) |
-| **Tusar Build Master** | AI-powered developer productivity tool for streamlined workflows | `AI` `Node.js` `Automation` | [📁 Repo](https://github.com/TusarGoswami/Tusar-build_Master) |
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    ACHIEVEMENTS SECTION                        -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🏅 Achievements & Milestones
-
-<div align="center">
-
-| 🎯 Achievement | 🏆 Detail |
-|:---:|:---:|
-| 💻 **Problems Solved** | 300+ across all platforms |
-| ⭐ **HackerRank Java** | 5 Star Certified |
-| 🔓 **Open Source** | Active Learner & Contributor |
-| 🌐 **Portfolio** | Live at [tusargoswami1.vercel.app](https://tusargoswami1.vercel.app/) |
-| 🚀 **Projects Deployed** | Multiple live production apps |
-| 🛡️ **Cybersecurity** | Active on TryHackMe |
+| **⚔️ Head-2-Code** | Real-time competitive coding battle platform — 1v1 duels, contests & leaderboards | `MongoDB` `Express` `React` `Node.js` | [![Repo](https://img.shields.io/badge/-Repo-0d0221?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/TusarGoswami/Head-2-Code) |
+| **🌌 Cosmic Portfolio** | Space-themed 3D interactive developer portfolio with WebGL & immersive animations | `React` `Three.js` `TailwindCSS` | [![Live](https://img.shields.io/badge/-Live-0d0221?style=flat-square&logo=vercel&logoColor=00d4ff)](https://cosmic-portfolio-tusar.vercel.app/) [![Repo](https://img.shields.io/badge/-Repo-0d0221?style=flat-square&logo=github&logoColor=7c3aed)](https://github.com/TusarGoswami/cosmic-portfolio-voyage) |
+| **🤖 Zarvis AI** | Personal AI assistant — Jarvis-inspired with voice interaction & task automation | `Python` `AI/ML` `Voice API` | [![Repo](https://img.shields.io/badge/-Repo-0d0221?style=flat-square&logo=github&logoColor=ff6b6b)](https://github.com/TusarGoswami/zarvis-tusar-edition) |
+| **🏗️ Build Master** | AI-powered developer productivity suite for streamlined, automated workflows | `Node.js` `AI` `Automation` | [![Repo](https://img.shields.io/badge/-Repo-0d0221?style=flat-square&logo=github&logoColor=10b981)](https://github.com/TusarGoswami/Tusar-build_Master) |
 
 </div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB TROPHIES                             -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS CARDS                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TusarGoswami&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true&custom_title=Tusar's+GitHub+Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusarGoswami&layout=compact&langs_count=10&theme=github_dark&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&custom_title=Most+Used+Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TusarGoswami&theme=github-dark-blue&hide_border=true&border_radius=15&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=1a1a2e" width="60%" />
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,50:7c3aed,100:00d4ff&height=2&section=header" width="100%" />
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    ACTIVITY GRAPH                              -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Activity
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  ⑥  ACHIEVEMENTS — Glowing metric badge cards                      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TusarGoswami&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&radius=16&custom_title=Tusar's%20Contribution%20Graph" width="100%" />
+## 🏅 &nbsp; Achievements Unlocked
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/300%2B-Problems_Solved-00d4ff?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a2e" /><br/>
+<sub>Across LeetCode · GFG · CodeChef</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/5★_Java-HackerRank-fbbf24?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0a0a2e" /><br/>
+<sub>Top-tier Java certification</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Active-Open_Source-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a2e" /><br/>
+<sub>Learner · Contributor</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/4_Projects-Live_&_WIP-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a2e" /><br/>
+<sub>Production-grade apps</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="360px" />
 
 </div>
 
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  CODING PLATFORM PROFILES                      -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 💻 Coding Platforms
+<br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbbf24,50:ff6b6b,100:7c3aed&height=2&section=header" width="100%" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  ⑦  GITHUB TROPHIES — Full-width premium dark dual rows             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🏆 &nbsp; Trophy Cabinet
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="GitHub Trophies Top" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=TusarGoswami&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=B,C" width="100%" alt="GitHub Trophies Bottom" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7c3aed&height=2&section=header" width="100%" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  ⑧  GITHUB STATS — 3-card neon layout                              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📊 &nbsp; GitHub Analytics
+
+<br/>
+
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=TusarGoswami&show_icons=true&theme=merko&hide_border=false&border_radius=16&bg_color=0d0221&title_color=00d4ff&icon_color=fbbf24&text_color=7dd3fc&border_color=00d4ff&include_all_commits=true&count_private=true&custom_title=⚡+Tusar's+GitHub+Stats" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusarGoswami&layout=compact&langs_count=8&theme=merko&hide_border=false&border_radius=16&bg_color=0d0221&title_color=00d4ff&text_color=7dd3fc&border_color=7c3aed&custom_title=🧬+Language+DNA" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=TusarGoswami&theme=dark&hide_border=false&border_radius=16&background=0D0221&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=7dd3fc&dates=4b5563&sideNums=fbbf24&currStreakNum=00d4ff&border=7c3aed" width="68%" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  ⑨  ACTIVITY GRAPH — Neon glowing area chart                        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📈 &nbsp; Contribution Heatmap
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TusarGoswami&bg_color=0d0221&color=00d4ff&line=7c3aed&point=fbbf24&area=true&area_color=00d4ff20&hide_border=false&border_color=00d4ff&radius=16&custom_title=🔥%20Tusar's%20Contribution%20Activity%20Graph" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,50:fbbf24,100:10b981&height=2&section=header" width="100%" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  ⑩  CODING PLATFORMS — Animated badge grid + LeetCode stats card   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 💻 &nbsp; Arena Profiles
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=1000&color=fbbf24&center=true&vCenter=true&width=600&lines=⚔️+Where+I+sharpen+my+coding+blade+daily...)](https://git.io/typing-svg)
+
+<br/>
 
 <a href="https://leetcode.com/u/TusarGoswami/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" />
 </a>
+&nbsp;
 <a href="https://www.geeksforgeeks.org/user/__tusar27/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0d0221?style=for-the-badge&logo=geeksforgeeks&logoColor=00d4ff" />
 </a>
+&nbsp;
 <a href="https://www.hackerrank.com/profile/tusarg937" target="_blank">
-  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  <img src="https://img.shields.io/badge/HackerRank-0d0221?style=for-the-badge&logo=HackerRank&logoColor=2EC866" />
 </a>
+&nbsp;
 <a href="https://www.codechef.com/users/tusar_27" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
+  <img src="https://img.shields.io/badge/CodeChef-0d0221?style=for-the-badge&logo=CodeChef&logoColor=fbbf24" />
 </a>
+&nbsp;
 <a href="https://tryhackme.com/p/tusarg937" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe"/>
+  <img src="https://img.shields.io/badge/TryHackMe-0d0221?style=for-the-badge&logo=TryHackMe&logoColor=ff6b6b" />
 </a>
 
 <br/><br/>
 
-<!-- LeetCode Stats Card -->
-<img src="https://leetcard.jacoblin.cool/TusarGoswami?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=16" width="60%" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/TusarGoswami?theme=dark&font=JetBrains+Mono&ext=heatmap&border=1&radius=16&border_color=00d4ff" width="58%" alt="LeetCode Stats" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Coding-Since_2021-00d4ff?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0a0a2e" />
+<img src="https://img.shields.io/badge/DSA_Problems-300%2B_Solved-fbbf24?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a2e" />
+<img src="https://img.shields.io/badge/HackerRank_Java-5_Stars_⭐⭐⭐⭐⭐-10b981?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a2e" />
 
 </div>
 
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  CONNECT WITH ME SECTION                       -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Connect With Me
+<br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:00d4ff,100:10b981&height=2&section=header" width="100%" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  ⑪  CONNECT WITH ME — Full social link panel                        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🌐 &nbsp; Connect & Collaborate
+
+<br/>
 
 <a href="https://tusargoswami1.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/tusar027/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/TusarGoswami" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:tusargoswami0027@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-tusargoswami1.vercel.app-00d4ff?style=for-the-badge&labelColor=0a0a2e" />
 </a>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+<a href="https://www.linkedin.com/in/tusar027/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Tusar_Goswami-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a2e" />
+</a>
+&nbsp;
+<a href="https://github.com/TusarGoswami" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-TusarGoswami-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a2e" />
+</a>
+&nbsp;
+<a href="mailto:tusargoswami0027@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-tusargoswami0027-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a2e" />
+</a>
 
-**I love connecting with fellow developers! Feel free to reach out — let's build something amazing together 🚀**
+<br/><br/>
 
-</div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" />
 
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                CONTRIBUTION SNAKE ANIMATION                    -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED FOOTER                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true)
+**`> Let's build the future, one commit at a time.`**
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Animated marquee" />
-
-<br/>
-
-<!-- Wave footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20like%20them!&fontSize=16&fontColor=58a6ff&animation=fadeIn&fontAlignY=65" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="75%" />
 
 </div>
 
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b6b,100:fbbf24&height=2&section=header" width="100%" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  ⑫  CURRENT VIBE — Fun animated status panel                        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ⚡ &nbsp; Current Vibe
+
+<br/>
+
+<table>
+<tr>
+<td align="center" valign="top">
+
+**🎯 Now Grinding**
+
+```
+HEAD-2-CODE   ████████░░  80%
+ZARVIS AI     ██████░░░░  60%
+SYSTEM DESIGN ███░░░░░░░  30%
+AWS CERTS     ████░░░░░░  40%
+```
+
+</td>
+<td align="center" valign="top">
+
+**📡 Live Signal**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=3500&pause=900&color=10b981&center=true&vCenter=true&width=280&lines=Status%3A+Coding+in+the+dark+🌙;Coffee+level%3A+CRITICAL+☕;Bugs+squashed%3A+countless+🐛;Ideas+in+queue%3A+infinite+💡;Deploy+frequency%3A+daily+🚀)](https://git.io/typing-svg)
+
+</td>
+<td align="center" valign="top">
+
+**🧩 Fun Stats**
+
+![](https://img.shields.io/badge/☕_Coffees-∞-8B4513?style=flat-square&labelColor=0a0a2e)
+![](https://img.shields.io/badge/🐛_Bugs_Fixed-Countless-00d4ff?style=flat-square&labelColor=0a0a2e)
+![](https://img.shields.io/badge/💡_Ideas-Always_Brewing-fbbf24?style=flat-square&labelColor=0a0a2e)
+![](https://img.shields.io/badge/🌙_Preferred_Hour-Late_Night-7c3aed?style=flat-square&labelColor=0a0a2e)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  ⑬  CINEMATIC ANIMATED FOOTER — venom wave outro                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=⭐+If+you+like+my+work%2C+drop+a+star!;🤝+Always+open+to+collaborate+%26+connect;🚀+Let's+build+something+extraordinary+together!)](https://git.io/typing-svg)
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:040d21,50:0a0a2e,80:0d0221,100:000000&height=180&section=footer&text=Happy+Coding!+👾&fontSize=42&fontColor=00d4ff&animation=twinkling&fontAlignY=65&stroke=00d4ff&strokeWidth=1" />
+
+</div>
+
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--          CRAFTED WITH ❤️ BY TUSAR GOSWAMI · INDIA 🇮🇳               -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
