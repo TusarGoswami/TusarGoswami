@@ -384,8 +384,8 @@
 </td>
 
 <td align="center">
-  <img src="YOUR_BADGE_LINK_1" width="90"/><br/>
-  <img src="YOUR_BADGE_LINK_2" width="90"/><br/>
+  <img src="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/main/contributor.png" width="100"/><br/>
+  <img src="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/main/open.png" width="100"/><br/>
   <sub><i>GSSoC 2026 · Open Source Contributor</i></sub>
 </td>
 </tr>
