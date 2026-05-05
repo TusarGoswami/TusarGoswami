@@ -19,7 +19,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:03001C,100:03001C&height=120&text=TUSAR%20GOSWAMI&fontSize=80&fontColor=00FFFF&animation=twinkling&stroke=00FFFF&strokeWidth=2&fontAlignY=65" />
 
 <!-- LAYER 3: Typing animation — role carousel with neon cyan -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&duration=2200&pause=400&color=00FFFF&background=03001C00&center=true&vCenter=true&width=860&height=40&lines=⟨+Full+Stack+Developer+·+MERN+·+Cloud+⟩;⟨+AI+Builder+·+System+Design+Explorer+⟩;⟨+Competitive+Coder+·+300%2B+Problems+⟩;⟨+3D+UI+Craftsman+·+Creative+Technologist+⟩;⟨+Open+Source+Learner+·+India+🇮🇳+⟩)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&duration=2200&pause=400&color=00FFFF&background=03001C00&center=true&vCenter=true&width=860&height=40&lines=⟨+Full+Stack+Developer+·+MERN+·+Cloud+⟩;⟨+AI+Builder+·+System+Design+Explorer+⟩;⟨+Competitive+Coder+·+300%2B+Problems+⟩;⟨+3D+UI+Craftsman+·+Creative+Technologist+⟩;⟨+Open+Source+Learner+·+India+🇮🇳+⟩)](https://git.io/typing-svg) 
 
 <!-- LAYER 4: Role tags — static badge row with bracket/terminal aesthetic -->
 ![](https://img.shields.io/badge/⟦_ROLE_⟧-Full_Stack_Dev-00FFFF?style=flat-square&labelColor=03001C&color=03001C&logoColor=00FFFF)
@@ -367,17 +367,26 @@
   <img src="https://img.shields.io/badge/300%2B-Problems_Solved-00FFFF?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=03001C" /><br/>
   <sub><i>LeetCode · GFG · CodeChef · HackerRank</i></sub>
 </td>
+
 <td align="center">
   <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5_Star_Java-F59E0B?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=03001C" /><br/>
   <sub><i>HackerRank certified top-tier</i></sub>
 </td>
+
 <td align="center">
   <img src="https://img.shields.io/badge/4_Projects-In_Production-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=03001C" /><br/>
   <sub><i>Live apps shipped to the world</i></sub>
 </td>
+
 <td align="center">
   <img src="https://img.shields.io/badge/Open_Source-Active_Learner-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=03001C" /><br/>
   <sub><i>Growing contributions daily</i></sub>
+</td>
+
+<td align="center">
+  <img src="YOUR_BADGE_LINK_1" width="90"/><br/>
+  <img src="YOUR_BADGE_LINK_2" width="90"/><br/>
+  <sub><i>GSSoC 2026 · Open Source Contributor</i></sub>
 </td>
 </tr>
 </table>
