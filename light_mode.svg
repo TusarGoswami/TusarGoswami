@@ -1,0 +1,65 @@
+<svg viewBox="0 0 1080 500" xmlns="http://www.w3.org/2000/svg" font-family="'Cascadia Code','Fira Code',monospace">
+  <rect width="1080" height="500" fill="#ffffff" rx="10"/>
+
+  <!-- ASCII PORTRAIT (left column) -->
+  <text x="30" y="30" font-size="8.4" fill="#0969da" xml:space="preserve">
+    <tspan x="30" dy="0">::.:.:-::::::::-::--:::---------------==---:::::-::-</tspan>
+    <tspan x="30" dy="16">*==:---:.::-::::-:---:::--=-----------:---::::----==</tspan>
+    <tspan x="30" dy="16">###+**++----::------------===-=-----::::-:::-=======</tspan>
+    <tspan x="30" dy="16">##%##**#*#*=-:--------=------::---:::---::-=========</tspan>
+    <tspan x="30" dy="16">*%%#####*##*+*+=++==-::::--:::.:-:----==--==========</tspan>
+    <tspan x="30" dy="16">#*#####*=*##++#*##*=*+-:--:--:::-========-==+=======</tspan>
+    <tspan x="30" dy="16">*+##**###*#**==*###=#**+*+=------=------============</tspan>
+    <tspan x="30" dy="16">++=+#**#*####+==**##*-*#***+**+=--:----===+=-====---</tspan>
+    <tspan x="30" dy="16">===-*#**=*+##++--=*#*=+#*##*####**+=--=====--==-==--</tspan>
+    <tspan x="30" dy="16">+##+=##**#*+###*=-=*#*=*##**#*+*****#+--===--==-==--</tspan>
+    <tspan x="30" dy="16">****#***#=+*#**#*+-+*#==*##**=+**+-==*++=---======-=</tspan>
+    <tspan x="30" dy="16">+=**++*+**+++*=**#*+**+-+*=*#***#++*++###*==++==-===</tspan>
+    <tspan x="30" dy="16">*++=-==+*#+-=***++**#**==+-*#*###=+#*+##+#*###+++*=-</tspan>
+    <tspan x="30" dy="16">#*==--==**#*=*#*=-=#++*=--=+**#*++**++*++##########*</tspan>
+    <tspan x="30" dy="16">-**-===*#+**-+%#*+=#+-**+---++##**+=-===+###*####*##</tspan>
+    <tspan x="30" dy="16">-=#+-+=*#**+--+###*+++**#*+*+*###*+*+-*=*#######***#</tspan>
+    <tspan x="30" dy="16">*==+==#####*--+###*+=+*+####*##**#*====+###+*##*#*=+</tspan>
+    <tspan x="30" dy="16">+*+++-+####+--*#*##++--+*#**###++*#+==+#+#++****##*=</tspan>
+    <tspan x="30" dy="16">=+++*+==***#=-+*#@@@@%*****####+*#***+*##*+=**+=+#*+</tspan>
+    <tspan x="30" dy="16">=+*****==*##*=+=#*==+%@@*-***##++++++=+#+=**+##+*+==</tspan>
+    <tspan x="30" dy="16">***%%###+*%#%+-+%*==-*@@#+#*=+*#**+**++*+##*=##***+=</tspan>
+    <tspan x="30" dy="16">:.:######**+%*-=*+*%+**##++**=*%##*#%##+=+***#%#*++=</tspan>
+    <tspan x="30" dy="16">:.:*##%####+++-=+===+#*##=--+++#*==*%#*+==####*#**==</tspan>
+    <tspan x="30" dy="16">..:+#%#%%%%#+===%%#*+-+##*===#***+=+#####***#*=++===</tspan>
+    <tspan x="30" dy="16">==+*#%##@%#*#**#%*-:..:%####****##*+++*##%###+=+*==*</tspan>
+    <tspan x="30" dy="16">####%%##########%%-...-#######*%%%##*+*######*#**=+*</tspan>
+  </text>
+
+  <!-- DIVIDER -->
+  <line x1="500" y1="20" x2="500" y2="480" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- HEADER -->
+  <text x="520" y="35" font-size="18" fill="#1f2328" font-weight="bold">
+    TusarGoswami<tspan fill="#8c959f"> ----------------------------------</tspan>
+  </text>
+
+  <g font-size="13.5" fill="#1f2328">
+    <text x="520" y="65"><tspan fill="#0969da">Host: </tspan><tspan fill="#8c959f">.........................</tspan> Lovely Professional University</text>
+    <text x="520" y="88"><tspan fill="#0969da">Kernel: </tspan><tspan fill="#8c959f">.......................</tspan> B.Tech CSE Student</text>
+    <text x="520" y="111"><tspan fill="#0969da">Uptime: </tspan><tspan fill="#8c959f">.......................</tspan> Aug 2023 -- Present</text>
+    <text x="520" y="134"><tspan fill="#0969da">CGPA: </tspan><tspan fill="#8c959f">.........................</tspan> 7.5 / 10.0</text>
+
+    <text x="520" y="167"><tspan fill="#0969da">Languages: </tspan><tspan fill="#8c959f">...................</tspan> Python, Java, C++, JS, TS, Dart</text>
+    <text x="520" y="190"><tspan fill="#0969da">Frontend: </tspan><tspan fill="#8c959f">....................</tspan> React.js, Three.js, Tailwind, Flutter</text>
+    <text x="520" y="213"><tspan fill="#0969da">Backend: </tspan><tspan fill="#8c959f">.....................</tspan> Node.js, Express, Flask, Socket.IO</text>
+    <text x="520" y="236"><tspan fill="#0969da">Databases: </tspan><tspan fill="#8c959f">...................</tspan> MongoDB, MySQL, SQLite</text>
+    <text x="520" y="259"><tspan fill="#0969da">Tools: </tspan><tspan fill="#8c959f">.......................</tspan> Git, AWS EC2, Vercel, Figma, Postman</text>
+
+    <line x1="520" y1="278" x2="1050" y2="278" stroke="#d0d7de" stroke-width="1"/>
+    <text x="520" y="303" fill="#1f2328" font-weight="bold">Achievements <tspan fill="#8c959f">------------------------------</tspan></text>
+    <text x="520" y="326"><tspan fill="#1a7f37">-- </tspan>Global Rank 746 / 34,000+ in LeetCode Biweekly 176</text>
+    <text x="520" y="349"><tspan fill="#1a7f37">-- </tspan>300+ problems solved (LeetCode Top 19%, CodeChef, GFG)</text>
+    <text x="520" y="372"><tspan fill="#1a7f37">-- </tspan>5-star HackerRank ratings in Java and C++</text>
+
+    <line x1="520" y1="391" x2="1050" y2="391" stroke="#d0d7de" stroke-width="1"/>
+    <text x="520" y="416" fill="#1f2328" font-weight="bold">Contact <tspan fill="#8c959f">------------------------------------</tspan></text>
+    <text x="520" y="439"><tspan fill="#0969da">Email: </tspan><tspan fill="#8c959f">.......................</tspan> tusargoswami0027@gmail.com</text>
+    <text x="520" y="462"><tspan fill="#0969da">LinkedIn: </tspan><tspan fill="#8c959f">....................</tspan> linkedin.com/in/tusar027</text>
+  </g>
+</svg>
