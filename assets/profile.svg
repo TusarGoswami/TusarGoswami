@@ -27,13 +27,13 @@
 <text x="400" y="476" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">LinkedIn ............ </tspan><tspan fill="#c9d1d9">linkedin.com/in/tusar027</tspan></text>
 <text x="400" y="497" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">GitHub .............. </tspan><tspan fill="#c9d1d9">github.com/TusarGoswami</tspan></text>
 <text x="400" y="526" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#58a6ff">⣿ </tspan><tspan fill="#e8a735">GitHub Stats</tspan></text>
-<text x="400" y="549" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Repos ......... </tspan><tspan fill="#c9d1d9">0</tspan></text>
-<text x="590" y="549" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Contributed ... </tspan><tspan fill="#c9d1d9">0</tspan></text>
-<text x="770" y="549" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Stars ......... </tspan><tspan fill="#c9d1d9">0</tspan></text>
-<text x="400" y="570" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Commits ....... </tspan><tspan fill="#c9d1d9">0</tspan></text>
-<text x="590" y="570" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Followers ..... </tspan><tspan fill="#c9d1d9">0</tspan></text>
-<text x="770" y="570" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Following ..... </tspan><tspan fill="#c9d1d9">0</tspan></text>
-<text x="400" y="591" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Lines of Code ... </tspan><tspan fill="#c9d1d9">≈ 0</tspan></text>
+<text x="400" y="549" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Repos ......... </tspan><tspan fill="#c9d1d9">41</tspan></text>
+<text x="590" y="549" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Contributed ... </tspan><tspan fill="#c9d1d9">3</tspan></text>
+<text x="770" y="549" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Stars ......... </tspan><tspan fill="#c9d1d9">90</tspan></text>
+<text x="400" y="570" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Commits ....... </tspan><tspan fill="#c9d1d9">573</tspan></text>
+<text x="590" y="570" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Followers ..... </tspan><tspan fill="#c9d1d9">7</tspan></text>
+<text x="770" y="570" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Following ..... </tspan><tspan fill="#c9d1d9">1</tspan></text>
+<text x="400" y="591" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Lines of Code ... </tspan><tspan fill="#c9d1d9">≈ 130,033</tspan></text>
 <rect x="0" y="592" width="960" height="48" fill="#161b22"/>
 <line x1="0" y1="592" x2="960" y2="592" stroke="#30363d"/>
 <text x="20" y="622" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#3fb950">tusar@github:~$</tspan><tspan fill="#6e7681">  |  </tspan><tspan fill="#c9d1d9">"Code. Build. Learn. Repeat."</tspan><tspan fill="#6e7681">  |  </tspan><tspan fill="#e8a735">"Turning ideas into impactful products."</tspan><tspan fill="#c9d1d9"> 🚀</tspan></text>
