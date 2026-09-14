@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/main/dark_mode.png" alt="Tusar Goswami GitHub Profile Banner" />
+  <img src="https://raw.githubusercontent.com/TusarGoswami/TusarGoswami/main/assets/profile.svg" alt="Tusar Goswami — GitHub Profile" />
 </p>
