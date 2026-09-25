@@ -32,7 +32,7 @@
 <text x="770" y="549" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Stars ......... </tspan><tspan fill="#c9d1d9">90</tspan></text>
 <text x="400" y="570" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Commits ....... </tspan><tspan fill="#c9d1d9">568</tspan></text>
 <text x="590" y="570" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Followers ..... </tspan><tspan fill="#c9d1d9">7</tspan></text>
-<text x="770" y="570" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Following ..... </tspan><tspan fill="#c9d1d9">1</tspan></text>
+<text x="770" y="570" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Following ..... </tspan><tspan fill="#c9d1d9">2</tspan></text>
 <text x="400" y="591" font-family="'Consolas','Monaco','Courier New','Liberation Mono',monospace" font-size="13"><tspan fill="#e8a735">Lines of Code ... </tspan><tspan fill="#c9d1d9">≈ 130,033</tspan></text>
 <rect x="0" y="592" width="960" height="48" fill="#161b22"/>
 <line x1="0" y1="592" x2="960" y2="592" stroke="#30363d"/>
