@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
-"""High-fidelity ASCII-art portrait generator matching the exact design of portrait_old.png.
+"""Refined zoomed ASCII-art portrait generator with sharp facial recognition.
 
 Features:
-- Exact 380x567 canvas with rounded rectangle border and corner radius
-- Matrix-style dot grid for background
-- Clean silhouette segmentation (removes passport background, preserves white shirt collar)
-- Rich ASCII / code glyphs with enhanced local contrast for eyes, glasses, mustache, and hair
-- Faithful color sampling with contrast boost for terminal display
+- Closer zoom (head, face, collar, tie, shoulders) matching GitHub avatar scale
+- Edge and contrast enhancement so glasses, eyes, mustache, smile are sharply recognizable
+- Rich natural color shading (warm skin gradients, deep hair, bright white collar, navy suit)
+- Matrix dot background and rounded border
 """
 
 import collections
@@ -17,12 +16,12 @@ ROOT = Path(__file__).resolve().parent.parent
 INPUT = ROOT / "assets" / "new_photo.png"
 OUTPUT = ROOT / "assets" / "portrait.png"
 
-# Canvas dimensions matching portrait_old.png exactly
+# Canvas dimensions
 W, H = 380, 567
 
-# Grid sizing: 54 columns x 80 rows
-COLS = 54
-ROWS = 80
+# Grid sizing: 56 columns x 82 rows
+COLS = 56
+ROWS = 82
 
 # Cell step
 CELL_W = 348.0 / COLS
@@ -31,12 +30,11 @@ OFFSET_X = 16.0
 OFFSET_Y = 13.0
 
 # Colors
-BG_COLOR = (1, 5, 12)          # canvas background
-BORDER_COLOR = (24, 38, 52)     # rounded frame border
-DOT_COLOR = (18, 30, 44)        # faint dot grid
+BG_COLOR = (1, 5, 12)
+BORDER_COLOR = (24, 38, 52)
+DOT_COLOR = (18, 30, 44)
 
-# ASCII character ramps
-# From darkest to brightest
+# Glyphs
 GLYPH_RAMP = [
     ".", ":", ";", "+", "=", "*", 
     "x", "s", "z", "u", "v", 
@@ -47,7 +45,6 @@ GLYPH_RAMP = [
 
 
 def load_font():
-    """Load bold monospace font for crisp ASCII rendering."""
     candidates = [
         ("C:/Windows/Fonts/courbd.ttf", 9),
         ("C:/Windows/Fonts/consola.ttf", 9),
@@ -62,16 +59,11 @@ def load_font():
 
 
 def build_background_mask(img_small):
-    """Segment background from subject using flood-fill from border.
-    
-    Identifies the bright off-white passport photo background without
-    touching the white shirt inside the suit.
-    """
+    """Flood-fill background mask from borders."""
     cols, rows = img_small.size
     is_bg = [[False] * cols for _ in range(rows)]
     queue = collections.deque()
 
-    # Seed all border cells
     for c in range(cols):
         queue.append((0, c))
         queue.append((rows - 1, c))
@@ -85,8 +77,7 @@ def build_background_mask(img_small):
             pixel = img_small.getpixel((c, r))
             brightness = (pixel[0] + pixel[1] + pixel[2]) / 3.0
             color_spread = max(pixel) - min(pixel)
-            # Background is bright (>160) and neutral cream/gray (spread < 35)
-            if brightness > 160 and color_spread < 35:
+            if brightness > 155 and color_spread < 40:
                 is_bg[r][c] = True
                 for dr, dc in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
                     queue.append((r + dr, c + dc))
@@ -95,91 +86,90 @@ def build_background_mask(img_small):
 
 
 def generate():
-    print(f"Loading input photo from: {INPUT}")
     orig = Image.open(INPUT).convert("RGB")
-    orig_w, orig_h = orig.size
+    
+    # ── Closer crop: zoom in on head, face, collar & shoulders ──
+    # Dimensions of original: 1824 x 2346
+    # Target aspect ratio: 380 / 567 = 0.6702
+    # Framing from test_zoom2: (269, 80, 1555, 2000)
+    cropped = orig.crop((269, 80, 1555, 2000))
 
-    # Crop to portrait ratio (380 / 567)
-    target_ratio = W / H
-    current_ratio = orig_w / orig_h
+    # Enhance sharpness and contrast so eyes, glasses frames, and facial hair are crisp
+    sharpened = cropped.filter(ImageFilter.UnsharpMask(radius=3, percent=180, threshold=2))
+    contrast = ImageEnhance.Contrast(sharpened).enhance(1.3)
+    color_boost = ImageEnhance.Color(contrast).enhance(1.1)
 
-    if current_ratio > target_ratio:
-        crop_w = int(orig_h * target_ratio)
-        left = (orig_w - crop_w) // 2
-        cropped = orig.crop((left, 0, left + crop_w, orig_h))
-    else:
-        crop_h = int(orig_w / target_ratio)
-        cropped = orig.crop((0, 0, orig_w, crop_h))
-
-    # Pre-process image to enhance facial contrast and details
-    # 1. Sharpen
-    sharpened = cropped.filter(ImageFilter.UnsharpMask(radius=2, percent=150, threshold=3))
-    # 2. Boost contrast
-    contrast = ImageEnhance.Contrast(sharpened).enhance(1.25)
-    # 3. Boost color saturation slightly
-    color_boost = ImageEnhance.Color(contrast).enhance(1.15)
-
-    # Resize to the ASCII grid size
+    # Resize to grid
     grid_img = color_boost.resize((COLS, ROWS), Image.LANCZOS)
+    # Also get edge map for glasses and facial contours
+    edges = cropped.convert("L").filter(ImageFilter.FIND_EDGES).resize((COLS, ROWS), Image.LANCZOS)
+
     bg_mask = build_background_mask(grid_img)
 
-    # Create canvas
     canvas = Image.new("RGB", (W, H), BG_COLOR)
     draw = ImageDraw.Draw(canvas)
 
-    # Draw rounded outer border matching original
+    # Rounded outer border
     draw.rounded_rectangle([(7, 6), (366, 556)], radius=8, outline=BORDER_COLOR, width=1)
 
     font = load_font()
 
-    # Render each cell
     for r in range(ROWS):
         y = OFFSET_Y + r * CELL_H
         for c in range(COLS):
             x = OFFSET_X + c * CELL_W
-            cell_is_bg = bg_mask[r][c]
 
-            if cell_is_bg:
-                # Faint background dot
+            if bg_mask[r][c]:
+                # Background dot
                 draw.text((x + 2, y), "·", fill=DOT_COLOR, font=font)
             else:
-                # Subject pixel
                 pr, pg, pb = grid_img.getpixel((c, r))
+                edge_val = edges.getpixel((c, r))
                 lum = 0.299 * pr + 0.587 * pg + 0.114 * pb
                 norm_lum = lum / 255.0
 
-                # Select glyph from ramp based on luminance
+                # Determine glyph index
                 glyph_idx = int(norm_lum * (len(GLYPH_RAMP) - 1))
                 glyph_idx = max(0, min(glyph_idx, len(GLYPH_RAMP) - 1))
                 char = GLYPH_RAMP[glyph_idx]
 
-                # Fine-tuned color enhancement:
-                # 1. White shirt / collar: high luminance + neutral color
-                if norm_lum > 0.70 and max(pr, pg, pb) - min(pr, pg, pb) < 32:
+                # Special feature tuning:
+                is_shirt = norm_lum > 0.72 and max(pr, pg, pb) - min(pr, pg, pb) < 30 and r > 50
+                is_skin = (pr > pg > pb) and (pr > 60) and r < 60
+                is_dark_feature = (norm_lum < 0.28 or edge_val > 55) and r < 60
+
+                if is_shirt:
+                    # White shirt collar
                     cr = min(255, int(220 + norm_lum * 35))
                     cg = min(255, int(225 + norm_lum * 30))
-                    cb = min(255, int(238 + norm_lum * 17))
-                # 2. Skin (face, ears, neck): warm golden / peach
-                elif pr > pg and pr > pb and norm_lum > 0.28:
-                    cr = min(255, int(pr * 1.20 + 10))
-                    cg = min(255, int(pg * 1.05 + 5))
+                    cb = min(255, int(240 + norm_lum * 15))
+                elif is_dark_feature and r < 52:
+                    # Eyes, glasses, eyebrows, mustache: crisp dark definition
+                    char = "@" if norm_lum < 0.18 else "%" if norm_lum < 0.24 else "8"
+                    # Deep warm charcoal / dark amber
+                    cr = max(40, int(pr * 1.3 + 20))
+                    cg = max(35, int(pg * 1.2 + 18))
+                    cb = max(35, int(pb * 1.2 + 18))
+                elif is_skin:
+                    # Warm skin tone with natural lighting gradient
+                    cr = min(255, int(pr * 1.15 + 10))
+                    cg = min(255, int(pg * 1.02 + 5))
                     cb = min(255, int(pb * 0.90))
-                # 3. Facial features (eyes, glasses, mustache, eyebrows): dark with good definition
-                elif norm_lum < 0.28 and r < 48:
-                    cr = max(35, int(pr * 1.5 + 25))
-                    cg = max(45, int(pg * 1.5 + 30))
-                    cb = max(60, int(pb * 1.5 + 40))
-                # 4. Suit & tie (lower torso): navy / steel blue
+                elif r < 24 and norm_lum < 0.35:
+                    # Hair: dark slate / charcoal
+                    cr = max(28, int(pr * 1.3 + 18))
+                    cg = max(36, int(pg * 1.3 + 24))
+                    cb = max(52, int(pb * 1.4 + 36))
                 else:
-                    cr = max(26, min(255, int(pr * 1.30 + 18)))
-                    cg = max(42, min(255, int(pg * 1.35 + 28)))
-                    cb = max(70, min(255, int(pb * 1.55 + 50)))
+                    # Suit jacket & tie: navy / steel blue
+                    cr = max(24, min(255, int(pr * 1.30 + 15)))
+                    cg = max(38, min(255, int(pg * 1.35 + 24)))
+                    cb = max(68, min(255, int(pb * 1.50 + 48)))
 
                 draw.text((x, y), char, fill=(cr, cg, pb), font=font)
 
-    # Save output
     canvas.save(OUTPUT, "PNG", optimize=True)
-    print(f"Generated high-fidelity ASCII portrait: {OUTPUT} ({OUTPUT.stat().st_size:,} bytes)")
+    print(f"Generated zoomed ASCII portrait: {OUTPUT} ({OUTPUT.stat().st_size:,} bytes)")
 
 
 if __name__ == "__main__":
