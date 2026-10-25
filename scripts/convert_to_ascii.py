@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
-"""Refined zoomed ASCII-art portrait generator with sharp facial recognition.
+"""Ultra-high resolution Micro-ASCII portrait generator.
 
-Features:
-- Closer zoom (head, face, collar, tie, shoulders) matching GitHub avatar scale
-- Edge and contrast enhancement so glasses, eyes, mustache, smile are sharply recognizable
-- Rich natural color shading (warm skin gradients, deep hair, bright white collar, navy suit)
-- Matrix dot background and rounded border
+Produces a 760x1134 (Retina 2x) ASCII portrait with 140 columns x 190 rows
+of microscopic code glyphs (~26,000 cells), delivering razor-sharp facial
+recognition (eyes, glasses, mustache, smile) with matrix hacker aesthetics.
 """
 
 import collections
@@ -16,27 +14,26 @@ ROOT = Path(__file__).resolve().parent.parent
 INPUT = ROOT / "assets" / "new_photo.png"
 OUTPUT = ROOT / "assets" / "portrait.png"
 
-# Canvas dimensions
-W, H = 380, 567
+# Canvas dimensions (2x Retina scale matching 380x567 display aspect ratio)
+CANVAS_W, CANVAS_H = 760, 1134
 
-# Grid sizing: 56 columns x 82 rows
-COLS = 56
-ROWS = 82
+# Grid sizing: 140 columns x 190 rows (~26,600 micro-ASCII cells)
+COLS = 140
+ROWS = 190
 
-# Cell step
-CELL_W = 348.0 / COLS
-CELL_H = 540.0 / ROWS
-OFFSET_X = 16.0
-OFFSET_Y = 13.0
+CELL_W = 704.0 / COLS
+CELL_H = 1084.0 / ROWS
+OFFSET_X = 28.0
+OFFSET_Y = 25.0
 
 # Colors
 BG_COLOR = (1, 5, 12)
-BORDER_COLOR = (24, 38, 52)
+BORDER_COLOR = (28, 44, 60)
 DOT_COLOR = (18, 30, 44)
 
-# Glyphs
-GLYPH_RAMP = [
-    ".", ":", ";", "+", "=", "*", 
+# Glyph set from sparse to dense
+RAMP = [
+    ".", ":", ";", "~", "+", "=", "*", 
     "x", "s", "z", "u", "v", 
     "c", "a", "e", "3", "5", "9",
     "0", "A", "C", "D", "E", "F",
@@ -45,10 +42,11 @@ GLYPH_RAMP = [
 
 
 def load_font():
+    """Load small monospace font for micro-ASCII rendering."""
     candidates = [
-        ("C:/Windows/Fonts/courbd.ttf", 9),
-        ("C:/Windows/Fonts/consola.ttf", 9),
-        ("C:/Windows/Fonts/lucon.ttf", 8),
+        ("C:/Windows/Fonts/consola.ttf", 7),
+        ("C:/Windows/Fonts/lucon.ttf", 6),
+        ("C:/Windows/Fonts/courbd.ttf", 7),
     ]
     for path, size in candidates:
         try:
@@ -77,7 +75,7 @@ def build_background_mask(img_small):
             pixel = img_small.getpixel((c, r))
             brightness = (pixel[0] + pixel[1] + pixel[2]) / 3.0
             color_spread = max(pixel) - min(pixel)
-            if brightness > 155 and color_spread < 40:
+            if brightness > 165 and color_spread < 40:
                 is_bg[r][c] = True
                 for dr, dc in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
                     queue.append((r + dr, c + dc))
@@ -86,31 +84,30 @@ def build_background_mask(img_small):
 
 
 def generate():
+    print(f"Loading photo from: {INPUT}")
     orig = Image.open(INPUT).convert("RGB")
-    
-    # ── Closer crop: zoom in on head, face, collar & shoulders ──
-    # Dimensions of original: 1824 x 2346
-    # Target aspect ratio: 380 / 567 = 0.6702
-    # Framing from test_zoom2: (269, 80, 1555, 2000)
+
+    # Zoomed crop focusing on head, face, collar, tie, and shoulders
+    # Framing: (269, 80, 1555, 2000)
     cropped = orig.crop((269, 80, 1555, 2000))
 
-    # Enhance sharpness and contrast so eyes, glasses frames, and facial hair are crisp
-    sharpened = cropped.filter(ImageFilter.UnsharpMask(radius=3, percent=180, threshold=2))
-    contrast = ImageEnhance.Contrast(sharpened).enhance(1.3)
-    color_boost = ImageEnhance.Color(contrast).enhance(1.1)
+    # Pre-process for sharp facial clarity
+    sharpened = cropped.filter(ImageFilter.UnsharpMask(radius=2, percent=160, threshold=2))
+    contrast = ImageEnhance.Contrast(sharpened).enhance(1.22)
+    color_boost = ImageEnhance.Color(contrast).enhance(1.12)
 
-    # Resize to grid
+    # Resize to the micro-grid dimensions
     grid_img = color_boost.resize((COLS, ROWS), Image.LANCZOS)
-    # Also get edge map for glasses and facial contours
     edges = cropped.convert("L").filter(ImageFilter.FIND_EDGES).resize((COLS, ROWS), Image.LANCZOS)
 
     bg_mask = build_background_mask(grid_img)
 
-    canvas = Image.new("RGB", (W, H), BG_COLOR)
+    # Create Retina canvas
+    canvas = Image.new("RGB", (CANVAS_W, CANVAS_H), BG_COLOR)
     draw = ImageDraw.Draw(canvas)
 
-    # Rounded outer border
-    draw.rounded_rectangle([(7, 6), (366, 556)], radius=8, outline=BORDER_COLOR, width=1)
+    # Rounded outer frame border
+    draw.rounded_rectangle([(14, 12), (746, 1122)], radius=16, outline=BORDER_COLOR, width=2)
 
     font = load_font()
 
@@ -121,55 +118,58 @@ def generate():
 
             if bg_mask[r][c]:
                 # Background dot
-                draw.text((x + 2, y), "·", fill=DOT_COLOR, font=font)
+                draw.text((x + 1, y), "·", fill=DOT_COLOR, font=font)
             else:
                 pr, pg, pb = grid_img.getpixel((c, r))
                 edge_val = edges.getpixel((c, r))
-                lum = 0.299 * pr + 0.587 * pg + 0.114 * pb
-                norm_lum = lum / 255.0
+                lum = (0.299 * pr + 0.587 * pg + 0.114 * pb) / 255.0
 
-                # Determine glyph index
-                glyph_idx = int(norm_lum * (len(GLYPH_RAMP) - 1))
-                glyph_idx = max(0, min(glyph_idx, len(GLYPH_RAMP) - 1))
-                char = GLYPH_RAMP[glyph_idx]
+                idx = int(lum * (len(RAMP) - 1))
+                idx = max(0, min(idx, len(RAMP) - 1))
+                char = RAMP[idx]
 
-                # Special feature tuning:
-                is_shirt = norm_lum > 0.72 and max(pr, pg, pb) - min(pr, pg, pb) < 30 and r > 50
-                is_skin = (pr > pg > pb) and (pr > 60) and r < 60
-                is_dark_feature = (norm_lum < 0.28 or edge_val > 55) and r < 60
+                # Classify regions for fine-tuned coloring
+                is_shirt = lum > 0.72 and max(pr, pg, pb) - min(pr, pg, pb) < 30 and r > 115
+                is_skin = (pr > pg > pb) and (pr > 60) and r < 140
+                is_dark_feature = (lum < 0.28) and r < 125
+                is_glasses_edge = edge_val > 65 and 50 < r < 95 and 35 < c < 105
 
                 if is_shirt:
                     # White shirt collar
-                    cr = min(255, int(220 + norm_lum * 35))
-                    cg = min(255, int(225 + norm_lum * 30))
-                    cb = min(255, int(240 + norm_lum * 15))
-                elif is_dark_feature and r < 52:
-                    # Eyes, glasses, eyebrows, mustache: crisp dark definition
-                    char = "@" if norm_lum < 0.18 else "%" if norm_lum < 0.24 else "8"
-                    # Deep warm charcoal / dark amber
-                    cr = max(40, int(pr * 1.3 + 20))
-                    cg = max(35, int(pg * 1.2 + 18))
-                    cb = max(35, int(pb * 1.2 + 18))
+                    cr = min(255, int(225 + lum * 30))
+                    cg = min(255, int(230 + lum * 25))
+                    cb = min(255, int(245 + lum * 10))
+                elif is_glasses_edge:
+                    # Spectacles frame reflection
+                    char = "=" if edge_val > 90 else "-"
+                    cr, cg, cb = 175, 215, 245
+                elif is_dark_feature and r < 125:
+                    # Eyes, eyebrows, mustache, smile shadows
+                    char = "@" if lum < 0.18 else "%" if lum < 0.24 else "8"
+                    cr = max(42, int(pr * 1.35 + 24))
+                    cg = max(38, int(pg * 1.25 + 20))
+                    cb = max(38, int(pb * 1.25 + 20))
                 elif is_skin:
-                    # Warm skin tone with natural lighting gradient
-                    cr = min(255, int(pr * 1.15 + 10))
-                    cg = min(255, int(pg * 1.02 + 5))
-                    cb = min(255, int(pb * 0.90))
-                elif r < 24 and norm_lum < 0.35:
-                    # Hair: dark slate / charcoal
-                    cr = max(28, int(pr * 1.3 + 18))
-                    cg = max(36, int(pg * 1.3 + 24))
-                    cb = max(52, int(pb * 1.4 + 36))
+                    # Warm skin tone with natural highlights
+                    cr = min(255, int(pr * 1.18 + 12))
+                    cg = min(255, int(pg * 1.06 + 6))
+                    cb = min(255, int(pb * 0.92))
+                elif r < 60 and lum < 0.35:
+                    # Hair: dark slate texture with defined hair shape
+                    char = RAMP[min(len(RAMP) - 1, int(lum * 1.5 * len(RAMP)))]
+                    cr = max(38, int(pr * 1.45 + 24))
+                    cg = max(48, int(pg * 1.45 + 30))
+                    cb = max(68, int(pb * 1.55 + 44))
                 else:
-                    # Suit jacket & tie: navy / steel blue
-                    cr = max(24, min(255, int(pr * 1.30 + 15)))
-                    cg = max(38, min(255, int(pg * 1.35 + 24)))
-                    cb = max(68, min(255, int(pb * 1.50 + 48)))
+                    # Suit jacket & tie: deep navy / steel blue
+                    cr = max(28, min(255, int(pr * 1.35 + 18)))
+                    cg = max(45, min(255, int(pg * 1.40 + 28)))
+                    cb = max(78, min(255, int(pb * 1.55 + 52)))
 
                 draw.text((x, y), char, fill=(cr, cg, pb), font=font)
 
     canvas.save(OUTPUT, "PNG", optimize=True)
-    print(f"Generated zoomed ASCII portrait: {OUTPUT} ({OUTPUT.stat().st_size:,} bytes)")
+    print(f"Generated ultra-high resolution micro-ASCII portrait: {OUTPUT} ({OUTPUT.stat().st_size:,} bytes)")
 
 
 if __name__ == "__main__":
